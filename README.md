@@ -1,18 +1,18 @@
-## CS300 Advanced Programming Concepts: School Course Management System 
+## CS300 Advanced Programming Concepts: School Course Management System
 
-### Project Description
-For the CS300 course, I developed a sophisticated School Course Management System aimed at reading and interpreting data from .CSV files. The system offers users the ability to easily access and manipulate detailed information about their school courses.
+### Project Overview
+This School Course Management System, developed as part of the CS300 course, is designed to read and interpret data from .CSV files. The system provides users with a reliable and user-friendly platform for accessing and managing detailed information about academic courses.
 
 ### Technical Approach
-To ensure the project's success, I began by drafting pseudocode as an outline for the software's functionality. This early planning phase was crucial for identifying the core features and planning the software architecture. Understanding the importance of data structures was fundamental to the project. Data structures allow for efficient data storage and manipulation, and they are essential in tackling real-world problems, making them a cornerstone in computer science careers.
+The project commenced with a planning phase that included drafting pseudocode to outline key functionalities. This served as a crucial roadmap for developing the system's architecture. A core aspect of the project was the effective utilization of data structures, essential for enabling efficient data storage and manipulation.
 
 ### Problem-Solving Strategy
-When faced with challenges, my go-to strategy involved in-depth online research. Utilizing platforms like Reddit and StackOverflow, I engaged with the programming community to seek advice and alternative solutions. I also revisited previous course materials and peer discussions to overcome roadblocks effectively.
+When encountering challenges, the approach involved rigorous online research. Valuable insights were gathered from programming forums such as Reddit and StackOverflow. Additionally, previous course materials and peer interactions were revisited to surmount obstacles effectively.
 
-### Skill Development
-The project has been an eye-opener in terms of the multitude of methods available for solving a single problem. It introduced me to the versatile application of vectors in software development.
+### Skill Enhancement
+The project provided an opportunity to explore diverse methodologies for problem-solving, particularly highlighting the effective use of vectors in software development.
 
 ### Code Quality
-This experience has been instrumental in refining my coding practices. I've learned the importance of making code readable and maintainable, focusing on clear variable naming and straightforward logic. This is particularly beneficial for long-term project sustainability and team collaboration.
+Emphasis was placed on writing code that is both readable and maintainable. This focus on quality is intended to aid in long-term sustainability and to simplify team-based collaboration.
 
-This project serves as an excellent example of my problem-solving skills, understanding of data structures, and commitment to producing high-quality, maintainable code. Feel free to reach out for further information or inquiries about the project.
+This project aims to be a representation of both technical skill in problem-solving and a commitment to generating maintainable, high-quality software. For additional information or queries regarding the project, please feel free to reach out.
