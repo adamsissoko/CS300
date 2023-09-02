@@ -23,4 +23,4 @@ The project was managed using Git for version control. This was particularly hel
 - **Automated Summary Reports**: With a focus on delivering actionable insights, the system automatically generates reports that summarize key metrics like student enrollments, faculty assignments, and more.
 
 ### Conclusion
-The School Course Management System was developed with the intention of making academic and administrative tasks simpler and more efficient. It represents a humble effort to understand and implement effective data structures and quality coding practices.
+The School Course Management System was developed with the intention of making academic and administrative tasks simpler and more efficient. It represents a humble effort to understand and implement effective data structures and quality coding practices. Please feel free to reach out with any feedback, questions, or concerns.
