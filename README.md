@@ -1,5 +1,5 @@
-## CS300 School Course Management System: Data-Driven Academic Course Management
-
+<h1 align = "center"> School Course Management System: Data-Driven Academic Course Management </h1>
+<h2 align = "center"> Adam Sissoko </h2>
 ### Overview
 The School Course Management System was designed to provide an efficient and user-friendly platform for managing and interpreting academic course data from .CSV files. The system not only facilitates easy data retrieval but also allows for complex data manipulations, ideal for administrative and academic use.
 
