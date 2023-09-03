@@ -1,24 +1,26 @@
-## CS300 School Course Management System: Data-Driven Academic Course Management
+<h1 align="center">School Course Management System: A Data-Driven Approach for Academic Course Management</h1>
+<h2 align="center">Adam Sissoko</h2>
 
-### Overview
-The School Course Management System was designed to provide an efficient and user-friendly platform for managing and interpreting academic course data from .CSV files. The system not only facilitates easy data retrieval but also allows for complex data manipulations, ideal for administrative and academic use.
+### Introduction and Objective
+The School Course Management System aims to simplify the intricate task of managing academic course data. With a focus on providing a straightforward interface for non-technical users, the platform can interpret data from .CSV files. Its primary use case involves making academic and administrative procedures more efficient by allowing easier data retrieval and enabling certain advanced data manipulation functions.
 
-### Architecture and Design
-The system follows a modular architecture to ensure separation of concerns. It efficiently parses .CSV files to populate a relational database, allowing for more complex queries and data manipulations down the line. Data integrity and system performance were key considerations during the design phase.
+### System Architecture: Ensuring Flexibility and Scalability
+The architecture of the School Course Management System is modular, built with the idea that each component can function independently but contribute to the system as a whole. This allows for better maintainability and makes future expansions less complicated. One of the key elements in the system design was efficient parsing of .CSV files to populate a relational database. This enables not just straightforward queries but also more advanced data operations, all without compromising data integrity or system performance.
 
-### Data Handling Techniques
-Special attention was paid to the use of efficient data structures for storage and retrieval, such as arrays and linked lists for quick access. Hash maps were employed for constant-time lookup operations, which is particularly useful when the system is scaled to accommodate larger datasets.
+### Techniques for Data Management
+Data storage and retrieval were crucial aspects of this project. Basic data structures like arrays and linked lists are employed where quick, sequential data access is needed. For operations requiring quick data lookup, hash maps were implemented. This is to ensure that as the dataset grows, the system remains efficient in fetching the required information.
 
-### Testing and Code Quality
-Unit tests were developed to cover critical parts of the code, ensuring that the data parsing and manipulation functionalities work as expected. To maintain code quality and readability, standard naming conventions were followed, and code comments were used judiciously to explain complex operations.
+### Quality Assurance Through Testing
+To verify the system's functionality, unit tests were created focusing on key parts of the application, particularly those involving data parsing and manipulation. This was done to make sure that the system behaves as intended in different scenarios. Additionally, to make the code understandable for anyone who might work on it in the future, conventional naming standards were used along with comments to clarify the more complex parts of the code.
 
-### Collaboration Tools and Workflow
-Version control was managed through Git, facilitating easy rollbacks and feature branching. Task assignments and progress tracking were handled through a simple Kanban board, enabling a clear overview of project milestones.
+### Collaborative Tools and Project Management
+The project was managed using Git for version control. This was particularly helpful for tracking changes and making reversions where necessary. For day-to-day task management and to keep track of project milestones, a Kanban board was used. It helped to visualize the workflow, allocate resources effectively, and track progress in a transparent manner.
 
-### Notable Features
-- **CSV Import/Export**: Allows users to batch-import or export course details, reducing manual data entry effort.
-- **Role-Based Access**: Different user roles such as 'Administrator,' 'Faculty,' and 'Student,' each with their own set of permissions and accessible features.
-- **Data Queries**: A search functionality that can filter and sort courses based on various parameters like course name, instructor, or schedule.
-- **Report Generation**: Automatic generation of summary reports that provide insights into course enrollments, faculty assignments, and other critical metrics.
+### Features Aimed at User Convenience
+- **Bulk Data Import/Export through CSV**: This feature was developed to minimize the time spent on manual data entry by allowing users to upload or download data in batches.
+- **Role-Specific Access Control**: The system has different user roles such as 'Administrator,' 'Faculty,' and 'Student,' and each role has its own level of access, ensuring that users interact only with the functionalities they are supposed to.
+- **Advanced Search Functionality**: The search feature allows users to locate specific courses using various parameters like course name, instructor name, or even time schedules.
+- **Automated Summary Reports**: With a focus on delivering actionable insights, the system automatically generates reports that summarize key metrics like student enrollments, faculty assignments, and more.
 
-The School Course Management System aims to showcase a methodical approach to problem-solving, an understanding of efficient data structures, and a commitment to high-quality code. For additional details or inquiries about the project, feel free to reach out.
+### Conclusion
+The School Course Management System is designed to simplify academic and administrative workflows through a user-friendly data management platform. Utilizing efficient data structures and adhering to quality coding practices, the system aims to enhance processes such as course enrollment, faculty assignment, and report generation. By converting complex academic data into easily interpretable formats, it serves both administrative and educational stakeholders. Its modular architecture ensures that the system is both scalable and maintainable, allowing it to adapt to growing institutional needs. Different user roles, such as 'Administrator,' 'Faculty,' and 'Student,' are incorporated to tailor user experience and system accessibility. Overall, the platform endeavors to be a comprehensive solution for academic course management, focusing on efficiency and user engagement.
